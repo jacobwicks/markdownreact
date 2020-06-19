@@ -80,7 +80,7 @@ function App() {
                 borderRadius: 15,
                 marginLeft: 100,
                 marginTop: 50,
-                width: '80vh',
+                width: '50vw',
             }}
         >
             <ExampleMarkdown maxWidth={maxWidth} />
